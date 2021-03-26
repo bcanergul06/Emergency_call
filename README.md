@@ -1,2 +1,2 @@
-# Emergancy_call
+# Emergency Call
 An Emergency App For Decentra Network
